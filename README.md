@@ -2,9 +2,7 @@
 
 <br>
 
-<a target="_blank" align="center">
-  <img align="right" top="450" height="350" width="400" alt="GIF" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
-</a>
+
 
 - 🔭 I’m currently working on LLM governance at <a href="https://corridorplatforms.ai" target="blank">CorridorPlatforms</a>
 
