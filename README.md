@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on LLMs at <a href="https://www.premai.io" target="blank">PremAI</a>
 
-- 🌱 I’m currently researching Large Language Models and alignment and LLM evaluation.
+- 🔬 I’m currently researching Large Language Models and alignment and LLM evaluation.
 
 - 🤝 I’m available for open-source collaborations.
 
