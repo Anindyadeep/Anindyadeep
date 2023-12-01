@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on LLM governance at <a href="https://corridorplatforms.ai" target="blank">CorridorPlatforms</a>
+- 🔭 I’m currently working on LLMs <a href="premai.io" target="blank">@PremAI</a>
 
 - 🌱 I’m currently Working on Large Language Models and alignment. 
 
