@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on LLMs <a href="premai.io" target="blank">@PremAI-io</a>
+- 🔭 I’m currently working on LLMs <a href="https://www.premai.io" target="blank">PremAI</a>
 
 - 🌱 I’m currently Working on Large Language Models and alignment. 
 
