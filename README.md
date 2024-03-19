@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning more on Language Models, Vision Transformers, and Evaluation of Foundation models.
 
-- 📝 I write articles on [Medium](https://cismography.medium.com/)
+- 📝 I write articles on [Medium](https://cismography.medium.com/) and currently also writing at [blog.premai.io](https://blog.premai.io/author/anindyadeep/)
 
 - 💬 Ask me about **LLMs, GraphML, Open Source**
 
