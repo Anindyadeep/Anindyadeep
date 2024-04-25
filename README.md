@@ -36,6 +36,3 @@
       </div>
 
 </p>
-
-
-<a href="https://gitroll.io/profile/utvTWfwRE9uRiJY9giH3IKTRYc4k2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/utvTWfwRE9uRiJY9giH3IKTRYc4k2" alt="GitRoll Profile Badge"/></a>
